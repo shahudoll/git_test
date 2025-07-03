@@ -1,3 +1,4 @@
+ I am editing using the gui from the file explorer
 Hello everyone I am Shaheen Shah, and aspiring web devoloper
 I am so glad to find a platform like odin project to learn 
 I am mostly hoping to follow the curriculum to the end and learn with the passion to excel and get a job
